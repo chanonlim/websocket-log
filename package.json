@@ -1,0 +1,23 @@
+{
+  "name": "wslog",
+  "version": "1.0.0",
+  "description": "A simple WebSocket logging utility written in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanonlim/websocket-log.git"
+  },
+  "keywords": [
+    "logger",
+    "websockets"
+  ],
+  "author": "chanonlim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chanonlim/websocket-log/issues"
+  },
+  "homepage": "https://github.com/chanonlim/websocket-log#readme"
+}
